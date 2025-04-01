@@ -1,0 +1,25 @@
+🚀 Enhancing Manufacturing Efficiency with Power BI 📊
+Excited to showcase my Production Performance & OEE (Overall Equipment Effectiveness) Dashboard, designed to monitor production efficiency, reduce defects, and enable real-time decision-making in manufacturing.
+
+🔹 Key Features & Business Impact
+✅ Power Query for Data Cleaning & Transformation – Ensuring structured, high-quality data.
+✅ Optimized Data Modeling (Star Schema) – Establishing relationships between fact and dimension tables for better performance.
+✅ Advanced DAX Measures & Time Intelligence – Calculating OEE trends, shift-wise efficiency, and defect rate variations.
+✅ KPI Tracking & Performance Metrics – Monitoring Overall OEE, Production Volume, Defect Rates, and Monthly OEE vs Target.
+✅ Interactive Data Visualizations – Using Slicers, Bookmarks & Drill-Through to enhance user experience.
+✅ Drill-Up & Drill-Down Analysis – Enabling deep dives into production efficiency, shift performance, and defect trends.
+✅ Seamless Power BI Service Integration – Enabling automated data refresh and secure access for stakeholders.
+✅ Real-Time Monitoring of Production & Defects – Helping identify bottlenecks and drive process optimization.
+
+🚀 Tools & Technologies Used
+🔹 Power BI – Interactive dashboard with advanced visuals, DAX, and bookmarks.
+🔹 SQL – Extracting and transforming manufacturing data for analysis.
+🔹 Power Query – Cleaning and structuring production and quality data.
+🔹 DAX (Data Analysis Expressions) – Implementing complex calculations for OEE, defect rates, and performance trends.
+
+💡 Business Value Delivered
+📌 Reduced manual reporting time by 40% with automated dashboards.
+📌 Improved production quality by 15% through defect monitoring.
+📌 Enabled real-time decision-making, reducing downtime and optimizing shift-wise performance.
+
+This dashboard empowers manufacturing and quality teams to analyze trends, reduce defects, and improve overall equipment effectiveness (OEE), supporting data-driven decision-making for continuous improvement.
